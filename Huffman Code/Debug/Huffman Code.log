@@ -1,0 +1,5 @@
+﻿  Huffman Code.cpp
+c:\users\leonc\google drive\college\senior year\fall semester\data structures ii\week 5\huffman code\huffman code\huffman code.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\leonc\google drive\college\senior year\fall semester\data structures ii\week 5\huffman code\huffman code\huffman code.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\leonc\google drive\college\senior year\fall semester\data structures ii\week 5\huffman code\huffman code\huffman code.cpp(77): warning C4101: 'removeIndex': unreferenced local variable
+  Huffman Code.vcxproj -> C:\Users\leonc\Google Drive\College\Senior Year\Fall Semester\Data Structures II\Week 5\Huffman Code\Debug\Huffman Code.exe
